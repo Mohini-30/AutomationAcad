@@ -8,3 +8,8 @@ static int add(int a, int b){
 static int subtract(int a,int b){
 	return a -b;
 }
+
+//division function
+static int division(int a, int b){
+	return a/b;
+}
