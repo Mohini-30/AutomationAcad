@@ -1,3 +1,10 @@
+
+//Addition function
 static int add(int a, int b){
 	return a+b;
+}
+
+//Subtraction Function
+static int subtract(int a,int b){
+	return a -b;
 }
