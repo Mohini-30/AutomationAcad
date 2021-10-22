@@ -13,3 +13,8 @@ static int subtract(int a,int b){
 static int division(int a, int b){
 	return a/b;
 }
+
+//multiplication function
+static int multiply(int a, int b){
+	return a*b;
+}
